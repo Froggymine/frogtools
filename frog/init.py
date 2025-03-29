@@ -1,1 +1,1 @@
-from pond import xor
+from pond import xor, rand_string
