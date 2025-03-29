@@ -10,7 +10,6 @@ setup(
         name="frogtools", 
         version=VERSION,
         author="Froggymine",
-        author_email="t@mmc.au",
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
         packages=find_packages(),
